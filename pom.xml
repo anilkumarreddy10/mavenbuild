@@ -15,7 +15,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.language>java</sonar.language>
-    <sonar.host.url>http://localhost:9000</sonar.host.url>
+    <sonar.host.url>http://http://13.233.14.155:9000</sonar.host.url>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
